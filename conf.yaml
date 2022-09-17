@@ -1,0 +1,11 @@
+---
+audio_lengths:
+    - 0.75
+    - 3
+sample_rate: 48000
+min_rms: 0.01
+extension: mp3
+embedding_hop_size: 0.25
+
+fsd50k:
+    orig_path: /Volumes/ML Data/fsd50k/orig/
